@@ -1,3 +1,3 @@
 # Git-Intro
 Test Repo
-October 2019
+Jo Tutorial
